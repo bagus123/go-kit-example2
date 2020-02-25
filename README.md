@@ -30,7 +30,10 @@ go mod tidy
 
 ```shell
 
-# add library
-go get github.com/vigneshuvi/GoDateFormat
+# add library go-kit
+go get github.com/go-kit/kit
+
+# add library mux (http)
+go get github.com/gorilla/mux
 
 ```
