@@ -1,6 +1,9 @@
 
 # go-kit-example2
 
+this sample use this library
+- [go-kit](https://github.com/go-kit/kit "go-kit")
+- [mux](https://github.com/gorilla/mux "mux")
 
 ## Installation
 
